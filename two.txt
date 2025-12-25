@@ -3,7 +3,12 @@ two
 
 hala wala 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 bla bla
 =======
 >>>>>>> b44d07f (Update two.txt hala wala 2)
+=======
+
+bla bla
+>>>>>>> 4b96c9e (my modifcations)
